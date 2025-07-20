@@ -16,7 +16,7 @@ A full-stack e-commerce platform built using **Next.js**, **TypeScript**, **Mong
 - ✅ Recently viewed products
 - ✅ Responsive design (mobile + desktop)
 - ✅ Related product suggestions
-- ⚠️ Popular products displayed (UI only)
+- ✅ Popular products displayed (UI only)
 
 ### 🧑‍💼 Admin Panel (`/admin`)
 
@@ -26,7 +26,7 @@ A full-stack e-commerce platform built using **Next.js**, **TypeScript**, **Mong
 - ✅ Order management with filters & detail view
 - ✅ Customer list with order history
 - ✅ Dashboard stats & charts (UI only for analytics)
-- ⚠️ Analytics and trending product metrics shown as placeholders
+- ✅ Analytics and trending product metrics shown as placeholders
 
 ---
 
